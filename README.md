@@ -21,8 +21,6 @@ JavaScript
 # Clone the repository:
 git clone https://github.com/piyushbarapatre/Login-Signup-Toggle
 
-Navigate to the project directory:
-cd your-repository
 
 
 # Usage
