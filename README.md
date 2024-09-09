@@ -1,9 +1,10 @@
 # Login-Signup-Toggle
 This project features a modern login page with a toggle function for switching between sign-in and sign-up forms. It showcases a clean and responsive design, enhancing user experience by allowing seamless transitions between authentication modes. Built with HTML, CSS, and JavaScript.
 
-https://github.com/user-attachments/assets/eb6937da-b9f3-44eb-9e5b-9dbd7823ea1d
+https://github.com/user-attachments/assets/8921b0d7-8ac6-41cc-926b-05dfc719c025
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/user-attachments/assets/4c2716c6-e581-42cc-abe4-b0ce0af97b26)
+![Screenshot (31)](https://github.com/user-attachments/assets/01332ced-e926-4562-b476-434da3690dff)
 
 ![Screenshot (30)](https://github.com/user-attachments/assets/0eefa1af-8bbf-4e7d-a92e-ece0eff2dab8)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
